@@ -12,15 +12,6 @@
 
     ****Approximately 20 GB of disk space will be allocated for fold1,... fold5 directories.
 
-
-    -------
-    [1] Spanhol, F.A.; Oliveira, L.S.; Petitjean, C.; Heutte, L. "A Dataset for Breast Cancer Histopathological Image Classification". Biomedical Engineering, IEEE Transactions on. Year: 2015, DOI: 10.1109/TBME.2015.2496264
-
-"""
-__author__ = "Fabio Alexandre Spanhol"
-__email__ = "faspanhol@gmail.com"
-
-
 import sys
 import os
 import shutil
